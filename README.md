@@ -5,7 +5,7 @@ Its primary goal is to use computer vision to navigate the game character throug
 
 The program supports the maximum number of game instances allowed by the game itself, which is 2 main windows and 1 Steam version running in parallel.
 
-##Features:
+## Features:
 
 **The controller can operate on a remote system with a physical graphic adapter, and all available operations can be commanded from the messenger bot assistant.**
 
