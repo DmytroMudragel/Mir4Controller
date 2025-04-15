@@ -26,9 +26,9 @@ namespace Mir4Controller
         public static readonly int mir0CoordsY = 100 + winSizeY + 40;
 
         // Telegram user data
-        public static string token = "5011228823:AAFHEZrhdZ1Ijp7APSPsCBnQ2EuFzunMFxU";
-        public static string userId = "464399966";
-        public static string pcId = "Main pc";
+        public static string token = //your bot token;
+        public static string userId = // your chat user id;
+        public static string pcId = // your pc id;
 
         // Telegram buttons
         public const string getScreenshotBtnText = "Get Screenshot";
