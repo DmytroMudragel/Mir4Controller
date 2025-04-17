@@ -1,4 +1,4 @@
-# Computer vision controller for action automation in the Mіr Four MMORPG game
+# Computer vision controller for action automation in the Mіr4 MMORPG game
 
 The controller was designed as a cross-platform solution using **.NET C# and XAML** in **WPF .NET**, and additionally, a messenger bot was developed to fully automate the ore-mining process in the Mіr4 game.
 Its primary goal is to use computer vision to navigate the game character through the game world from the spawn point after they were killed back to the ore valley, find a free mining spot, and start the mining process again. In addition to that, it can close, update, and reopen any game instance upon its update.
